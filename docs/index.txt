@@ -1,4 +1,3 @@
-
 .. _index:
 
 ====================
@@ -6,6 +5,8 @@ Django documentation
 ====================
 
 .. rubric:: Everything you need to know about Django.
+
+This is an example of how I'm submitting changes for someone to review!
 
 Getting help
 ============
